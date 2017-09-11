@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
     public void eatMemory(View view) {
         MyTask task = new MyTask();
         task.execute();
+        //NOMSSSS
     }
 
     public void releaseMemory(View view) {
